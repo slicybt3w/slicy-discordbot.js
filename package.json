@@ -1,0 +1,16 @@
+{
+  "name": "slicy-discordbot",
+  "version": "12.5.3",
+  "description": "slicy-discordbot is simple api made by slicybtw to configure and enhance the ways on coding your discord bot. Compatible with discord.js v12 but it should also work on older versions. Variety of different usages for this api.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.13.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "author": "slicybtw",
+  "license": "ISC"
+}
